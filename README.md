@@ -1,2 +1,2 @@
 # MarioRoyaleGuides
-### Open [here](https://www.example.com)
+### Open [here](https://github.com/soulslimm/MarioRoyaleGuides/wiki)
